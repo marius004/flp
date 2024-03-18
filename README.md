@@ -1,1 +1,1 @@
-# flp
+# flp (Fundamentele limbajelor de programare)
